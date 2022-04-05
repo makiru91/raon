@@ -1,0 +1,5 @@
+package com.joker.controller;
+
+public class ErrorController {
+
+}

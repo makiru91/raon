@@ -1,0 +1,5 @@
+package com.expro.interceptor;
+
+public class LoginCheckInterceptor {
+
+}

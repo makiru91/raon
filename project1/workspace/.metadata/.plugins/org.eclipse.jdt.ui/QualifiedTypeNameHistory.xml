@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.oreilly.servlet.MultipartRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="com.joker.member.service.PasswdCheck"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.apache.catalina.Session"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="com.joker.board.db.BoardDAO"/>
+<fullyQualifiedTypeName name="com.joker.board.db.BoardDTO"/>
+<fullyQualifiedTypeName name="com.joker.member.db.MemberDTO"/>
+<fullyQualifiedTypeName name="com.joker.member.db.MemberDAO"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
+	<item key="J2EE_EXPORT_SOURCE" value="true"/>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\EunJung\project1\expro.war"/>
+		<item value="C:\EunJung\project1\expro_v2.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v9.0"/>
+		<item value="NULL_RUNTIME"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\EunJung\project2\2차수정.war"/>
+		<item value="C:\Users\yooka\Desktop\1차_과제.war"/>
+		<item value="C:\EunJung\mvc_board.war"/>
+		<item value="C:\EunJung\project1_mvc_board.war"/>
+	</list>
+</section>
